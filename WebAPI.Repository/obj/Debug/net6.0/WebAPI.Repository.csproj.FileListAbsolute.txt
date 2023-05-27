@@ -1,0 +1,13 @@
+G:\WebAPI\WebAPI.Repository\bin\Debug\net6.0\WebAPI.Repository.deps.json
+G:\WebAPI\WebAPI.Repository\bin\Debug\net6.0\WebAPI.Repository.runtimeconfig.json
+G:\WebAPI\WebAPI.Repository\bin\Debug\net6.0\WebAPI.Repository.dll
+G:\WebAPI\WebAPI.Repository\bin\Debug\net6.0\ref\WebAPI.Repository.dll
+G:\WebAPI\WebAPI.Repository\bin\Debug\net6.0\WebAPI.Repository.pdb
+G:\WebAPI\WebAPI.Repository\obj\Debug\net6.0\WebAPI.Repository.GeneratedMSBuildEditorConfig.editorconfig
+G:\WebAPI\WebAPI.Repository\obj\Debug\net6.0\WebAPI.Repository.AssemblyInfoInputs.cache
+G:\WebAPI\WebAPI.Repository\obj\Debug\net6.0\WebAPI.Repository.AssemblyInfo.cs
+G:\WebAPI\WebAPI.Repository\obj\Debug\net6.0\WebAPI.Repository.csproj.CoreCompileInputs.cache
+G:\WebAPI\WebAPI.Repository\obj\Debug\net6.0\WebAPI.Repository.dll
+G:\WebAPI\WebAPI.Repository\obj\Debug\net6.0\ref\WebAPI.Repository.dll
+G:\WebAPI\WebAPI.Repository\obj\Debug\net6.0\WebAPI.Repository.pdb
+G:\WebAPI\WebAPI.Repository\obj\Debug\net6.0\WebAPI.Repository.genruntimeconfig.cache

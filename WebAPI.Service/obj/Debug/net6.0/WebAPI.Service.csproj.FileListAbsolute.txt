@@ -1,0 +1,17 @@
+G:\WebAPI\WebAPI.Service\bin\Debug\net6.0\WebAPI.Service.deps.json
+G:\WebAPI\WebAPI.Service\bin\Debug\net6.0\WebAPI.Service.dll
+G:\WebAPI\WebAPI.Service\bin\Debug\net6.0\ref\WebAPI.Service.dll
+G:\WebAPI\WebAPI.Service\bin\Debug\net6.0\WebAPI.Service.pdb
+G:\WebAPI\WebAPI.Service\bin\Debug\net6.0\WebAPI.Model.dll
+G:\WebAPI\WebAPI.Service\bin\Debug\net6.0\WebAPI.Repository.dll
+G:\WebAPI\WebAPI.Service\bin\Debug\net6.0\WebAPI.Model.pdb
+G:\WebAPI\WebAPI.Service\bin\Debug\net6.0\WebAPI.Repository.pdb
+G:\WebAPI\WebAPI.Service\obj\Debug\net6.0\WebAPI.Service.csproj.AssemblyReference.cache
+G:\WebAPI\WebAPI.Service\obj\Debug\net6.0\WebAPI.Service.GeneratedMSBuildEditorConfig.editorconfig
+G:\WebAPI\WebAPI.Service\obj\Debug\net6.0\WebAPI.Service.AssemblyInfoInputs.cache
+G:\WebAPI\WebAPI.Service\obj\Debug\net6.0\WebAPI.Service.AssemblyInfo.cs
+G:\WebAPI\WebAPI.Service\obj\Debug\net6.0\WebAPI.Service.csproj.CoreCompileInputs.cache
+G:\WebAPI\WebAPI.Service\obj\Debug\net6.0\WebAPI.Service.csproj.CopyComplete
+G:\WebAPI\WebAPI.Service\obj\Debug\net6.0\WebAPI.Service.dll
+G:\WebAPI\WebAPI.Service\obj\Debug\net6.0\ref\WebAPI.Service.dll
+G:\WebAPI\WebAPI.Service\obj\Debug\net6.0\WebAPI.Service.pdb
