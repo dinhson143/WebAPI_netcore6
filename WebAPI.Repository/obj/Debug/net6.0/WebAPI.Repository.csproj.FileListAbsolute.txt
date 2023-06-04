@@ -11,3 +11,4 @@ G:\WebAPI\WebAPI.Repository\obj\Debug\net6.0\WebAPI.Repository.dll
 G:\WebAPI\WebAPI.Repository\obj\Debug\net6.0\ref\WebAPI.Repository.dll
 G:\WebAPI\WebAPI.Repository\obj\Debug\net6.0\WebAPI.Repository.pdb
 G:\WebAPI\WebAPI.Repository\obj\Debug\net6.0\WebAPI.Repository.genruntimeconfig.cache
+G:\WebAPI\WebAPI.Repository\obj\Debug\net6.0\WebAPI.Repository.csproj.AssemblyReference.cache

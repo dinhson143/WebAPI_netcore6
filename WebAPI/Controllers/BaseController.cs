@@ -31,6 +31,10 @@ namespace WebAPI.Controllers
                         response.StatusCode = (int)HttpStatusCode.NoContent;
                         response.Message = StatusRequest.DeleteSuccess;
                         break;
+                    case StatusRequest.Actions.AddFailed:
+                        response.StatusCode = (int)HttpStatusCode.NotModified;
+                        response.Message = StatusRequest.AddFailure;
+                        break;
                     default:
                         response.StatusCode = (int)HttpStatusCode.OK;
                         response.Message = HttpStatusCode.OK.ToString();
