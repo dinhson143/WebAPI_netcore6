@@ -14,6 +14,7 @@ namespace WebAPI.Repository.Constants
             public const string Update = "Updated";
             public const string Delete = "Deleted";
             public const string Get = "Get";
+            public const string AddFailed = "Add failed";
         }
         public static string AccessDenied = "Access Denied";
         public static string AddFailure = "Failed to add a new resource";
@@ -38,6 +39,7 @@ namespace WebAPI.Repository.Constants
         public static string BookNotFound = "There is no Book found with the provided Book id";
         public static string EnrollBookNotFound = "There is no enrollment found with the provided Book id of the signed in User";
         public static string NOT_MATCH = "Id doesn't match";
+        public static string LoginFailed = "Failed to login, please double check username and password !!!";
         public static string RESOURCE_NOTFOUND(string id) => $"{id} Not Found";
     }
 }

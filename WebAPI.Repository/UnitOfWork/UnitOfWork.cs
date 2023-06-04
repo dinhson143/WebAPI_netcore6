@@ -5,6 +5,8 @@ using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
 using System.Threading.Tasks;
 using WebAPI.Repository.EF;
+using Microsoft.AspNetCore.Identity;
+using WebAPI.Repository.Entities;
 
 namespace WebAPI.Repository.UnitOfWork
 {
